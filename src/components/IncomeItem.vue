@@ -37,8 +37,8 @@ export default {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 15px 15px 15px 0px;
-  background-color: #fff;
+  padding: 15px;
+  background-color: #eee;
   width: 500px;
   margin: 0 auto 10px;
 }
