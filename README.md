@@ -27,3 +27,5 @@ npm run build
 ```
 npm run lint
 ```
+## Test
+[Link](https://varyalikhanina.github.io/budget-app/)
